@@ -1,0 +1,200 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/vlsi/Desktop/CDAC_Project/AXI2SDRAM/Design/AXI2SDRAM_Wrapper
+T_opt
+!s110 1723783097
+Va5J1OU60dQz081PIonQLn2
+Z1 04 9 4 work AXI2SDRAM fast 0
+=1-ac15a2303314-66bed7b9-11843-20186
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.7c;67
+R0
+T_opt1
+!s110 1723783232
+VcRli77VAKIVhWAlZmC<B<0
+R1
+=1-ac15a2303314-66bed840-a2c71-202af
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+vasync_fifo
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z5 !s110 1723783100
+!i10b 1
+!s100 6Z2jmLn^`GoccCWJf>31]2
+I?IiGFP`OZEkFGNZE>?4nR2
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 !s105 AXI2SDRAM_Top_sv_unit
+S1
+R0
+w1723762947
+8async_fifo.v
+Fasync_fifo.v
+L0 2
+Z8 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z9 !s108 1723783100.000000
+Z10 !s107 fifo_sdram_controller.sv|SDRAM_Controller.sv|async_fifo_1.v|async_fifo.v|fifo.sv|axil_slave.sv|AXI2SDRAM_Top.sv|
+Z11 !s90 AXI2SDRAM_Top.sv|-gui|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vasync_fifo_1
+R4
+R5
+!i10b 1
+!s100 L:12`T9Z?U_VJ`;GH71B_2
+IP5IG^;L=<Fi>9S1L2jjBe2
+R6
+R7
+S1
+R0
+w1723762958
+8async_fifo_1.v
+Fasync_fifo_1.v
+L0 2
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+vAXI2SDRAM
+R4
+R5
+!i10b 1
+!s100 7^eM=9NM@A6==niO1TVhm3
+IUh;7mJF0GiV?L2^HkPe9A3
+R6
+R7
+S1
+R0
+w1723770291
+8AXI2SDRAM_Top.sv
+FAXI2SDRAM_Top.sv
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+n@a@x@i2@s@d@r@a@m
+vAXIL_Slave_FSM
+R4
+R5
+!i10b 1
+!s100 fH@>9`l5nR4:HLS4HC0D>2
+I98oM4cE2h?7R4oCDP]0H40
+R6
+R7
+S1
+R0
+w1723762975
+8axil_slave.sv
+Faxil_slave.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+n@a@x@i@l_@slave_@f@s@m
+vFIFO
+R4
+R5
+!i10b 1
+!s100 mjSW30TG0HS38PYf?>dkz1
+IMCJJAA@h1:IT6WgLIzaHh0
+R6
+R7
+S1
+R0
+w1723762971
+8fifo.sv
+Ffifo.sv
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+n@f@i@f@o
+vfifo_sdram_cntrl
+R4
+R5
+!i10b 1
+!s100 ZSgkm>@i8E;9fJ?lFGKb:2
+Inz:2ghh6@G<WS:MQUD83`0
+R6
+R7
+S1
+R0
+w1723769563
+8fifo_sdram_controller.sv
+Ffifo_sdram_controller.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
+vsdram_controller
+R4
+R5
+!i10b 1
+!s100 9[o6R3A@VWdILVOX_Rm:T2
+Im?[gMUfz=m;L]7JzSLPbV3
+R6
+R7
+S1
+R0
+w1723751196
+8SDRAM_Controller.sv
+FSDRAM_Controller.sv
+L0 25
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R2
